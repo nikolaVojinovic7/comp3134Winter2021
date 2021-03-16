@@ -1,0 +1,3 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# 
+
+tcpdump -w all_traffic_20210316_1125
