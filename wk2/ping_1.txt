@@ -1,0 +1,12 @@
+PING google.ca (172.217.1.163) 56(84) bytes of data.
+64 bytes from yyz10s04-in-f3.1e100.net (172.217.1.163): icmp_seq=1 ttl=121 time=1.28 ms
+64 bytes from yyz10s04-in-f3.1e100.net (172.217.1.163): icmp_seq=2 ttl=121 time=0.580 ms
+64 bytes from yyz10s04-in-f3.1e100.net (172.217.1.163): icmp_seq=3 ttl=121 time=0.501 ms
+64 bytes from yyz10s04-in-f3.1e100.net (172.217.1.163): icmp_seq=4 ttl=121 time=0.586 ms
+64 bytes from yyz10s04-in-f3.1e100.net (172.217.1.163): icmp_seq=5 ttl=121 time=0.575 ms
+64 bytes from yyz10s04-in-f3.1e100.net (172.217.1.163): icmp_seq=6 ttl=121 time=0.538 ms
+64 bytes from yyz10s04-in-f3.1e100.net (172.217.1.163): icmp_seq=7 ttl=121 time=0.492 ms
+^C
+--- google.ca ping statistics ---
+7 packets transmitted, 7 received, 0% packet loss, time 6129ms
+rtt min/avg/max/mdev = 0.492/0.650/1.281/0.259 ms
