@@ -1,0 +1,4 @@
+I will use the file_exits function to check if the folders exists for the path
+variable and I will use the basename function on the path variable as well
+to update the path to not allow parent folders to be accessed.
+
