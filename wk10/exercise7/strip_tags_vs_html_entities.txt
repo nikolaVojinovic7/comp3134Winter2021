@@ -1,0 +1,4 @@
+Striping tags function will get rid of the script tags when writing the output to 
+the screen and the percentages as well as it is printing the value of the script.
+Where as the pure html will print out every character given to it in the url or form,
+with no regard to whether it is a script or not.
