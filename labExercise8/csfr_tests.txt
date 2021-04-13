@@ -1,0 +1,2 @@
+When you use the csfr_form.php to submit the form to the other page the confiramtion variable ensures that it does not pass the login in request.
+As opposed to the first example where it would go threw the login if passed from the csfr.html page.
