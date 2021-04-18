@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Reflected XSS</title>
+</head>
+<body>
+
+<h1>Reflected XSS</h1>
+<form>
+    <label for="textField">Enter Text</label>
+    <input type="text" id="textField">
+    <button type="button" onclick="getText()">Submit</button>
+</form>
+
+<div id="demo">
+</div>
+
+<script type="text/javascript">
+    function getText(){
+        let userData = document.getElementById("textField").value;
+        console.log(document.getElementById("textField").value);
+        let divTag = document.getElementById("demo");
+        divTag.innerHTML = userData;
+    }
+</script>
+
+</body>
+</html>
+
+
+
