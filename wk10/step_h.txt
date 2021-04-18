@@ -1,0 +1,2 @@
+I will use a php comments instead of an html comment to mitigate the issue
+of code comments showing in the browser.

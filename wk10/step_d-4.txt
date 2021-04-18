@@ -1,0 +1,5 @@
+The issue that you are seeing is that all the hidden files can be seen using 
+the php script, which can be sensitive information. Someone could open up 
+the backup files and the log files and see all the history. Or they could 
+change something in the system files that can negatively effect the 
+computer.

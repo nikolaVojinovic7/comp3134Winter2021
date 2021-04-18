@@ -1,0 +1,7 @@
+What I see on the browser is an error that says it failed 
+to open the file hello in the directory_traversal_part1.php. 
+
+
+The sensitive information that is given is the whole 
+directory structure to the root as well as potentially the reference 
+(in this case "hello") may be sensitive information as well.
