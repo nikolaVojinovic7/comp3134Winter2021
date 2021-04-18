@@ -1,0 +1,1 @@
+I witnessed nothing as the connection refused to load for the droplet.
