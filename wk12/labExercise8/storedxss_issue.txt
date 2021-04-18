@@ -1,2 +1,0 @@
-You cannot see anything as the read funtion will not output the text inside the notepad document, as it sees the 
-script tag and tries to open the other file, but fails.
