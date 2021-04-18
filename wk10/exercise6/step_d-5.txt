@@ -1,3 +1,0 @@
-It shows the hidden dot files as well as the html file which may be
-sensitive information as the dot files can have system settings inside them
-which should not be public to everyone.
